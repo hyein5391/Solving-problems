@@ -41,4 +41,19 @@ for i in range(l):
  41 43 45 47 49 
 
  #풀이 정답
+l = int(input('숫자를 입력하세요'))
+for i in range(l):
+    for j in range(1,9+1,2):
+        print((10*i) + j, end=" ")
+    print("")
+
+#문제4
+ number = 5
+ 1
+ 1 2
+ 1 2 3
+ 1 2 3 4
+ 1 2 3 4 5
+ 
+ #풀이 정답
  
