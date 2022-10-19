@@ -57,3 +57,24 @@ for i in range(l):
  
  #풀이 정답
  
+ 
+ 
+ 
+ 
+ 
+ #문제8
+ number = 5
+ 1 2 3 4 5
+ 2 3 4 5 6
+ 3 4 5 6 7
+ 4 5 6 7 8
+ 5 6 7 8 9 
+ 
+ 
+ 
+ #풀이 정답
+##l = int(input('숫자를 입력하세요'))
+##for i in range(l):
+##    for j in range(1,6):
+##        print((1*i) + j, end=" ")
+##    print("")
