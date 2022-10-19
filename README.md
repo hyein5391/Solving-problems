@@ -108,3 +108,4 @@ number = 5
 l = int(input('숫자를 입력하세요'))
 for j in range(1,6):
     print('*' * j)
+
